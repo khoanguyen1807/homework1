@@ -1,0 +1,18 @@
+
+.formsignup input[type=text], .formsignup input[type=password], .formsignup input[type=date]{
+    width:100%;
+    height: 45px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 18px;
+    background: linear-gradient(to left, rgb(207, 0, 235), rgb(194, 255, 235),rgb(162, 190, 255) )
+}
+
+.formsignup button{
+    border-radius: 18px;
+    margin-top: 10px;
+    width: 146px;
+    height: 46px;
+    border: none;
+    background: linear-gradient(to right, rgb(246, 255, 196), rgb(193, 255, 234),rgb(182, 203, 253) );
+}
